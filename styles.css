@@ -15,6 +15,7 @@ body{
 }
 .container h1{
     text-align: center;
+    margin-bottom:7px;
 }
 .container p{
     font-weight: bold;
